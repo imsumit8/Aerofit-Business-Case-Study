@@ -74,6 +74,9 @@ Age: The age of a person doesn't really matter for this product. If someone is w
 
 Other considerations: Customers with fitness level 4-5 or average 140 miles per week or average usage of more than 4 days per week are more likely to buy this product.
 ## Contributing
-Guidelines for contributing to the project.
+On top of this Exploratory analysis one can contribute via employing any machine learning models for future predictions or customer segmentation.
+
 ## License
-Information on the project license.
+MIT License
+
+Copyright (c) 2024 Sumit Chowdhury
