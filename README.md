@@ -47,7 +47,7 @@ excellent shape.
 For this project one need to install necessary Python libraries like numpy, pandas, matplotlib & seaborn.
 
 ## Analysis Overview
-- [EDA+Sentiment Analysis on DATA](Aerofit_case_study.ipynb)
+- [Jupyter Notebook link : Analysis on DATA](Aerofit_case_study.ipynb)
 ## Customer Profiling : KP281
 Gender: Females are more likely to buy this product comaped to male counterparts.
 
