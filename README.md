@@ -47,8 +47,8 @@ excellent shape.
 For this project one need to install necessary Python libraries like numpy, pandas, matplotlib & seaborn.
 
 ## Analysis Overview
-
-# Customer Profiling : KP281
+- [EDA+Sentiment Analysis on DATA](Aerofit_case_study.ipynb)
+## Customer Profiling : KP281
 Gender: Females are more likely to buy this product comaped to male counterparts.
 
 Income: Customers in the income range of 30k-50k are more likely to buy KP-281.
@@ -57,14 +57,14 @@ Age: Customers in the age group of 18-30 are more likely to buy KP281.
 
 Other considerations: Customers with fitness level 1-3 are more likely to buy this product.
 
-# Customer Profiling : KP481
+## Customer Profiling : KP481
 Gender: Females are more likely to buy this product compared to male counterparts.
 
 Income: Customers in the income range of 50k-70k are more likely to buy KP-481.
 
 Age: Customers in the age group of 30-40 are more likely to buy this product.
 
-# Customer Profiling : KP781
+## Customer Profiling : KP781
 
 Gender: Males are more likely to buy this product comaped to female counterpart.
 
